@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ded445f5.css",
-    "main.js": "/static/js/main.68f7bbff.js",
-    "static/js/787.1428244b.chunk.js": "/static/js/787.1428244b.chunk.js",
-    "static/media/chorong2.png": "/static/media/chorong2.75a0a70c1c4c03a30c47.png",
-    "static/media/chorong.png": "/static/media/chorong.f947abcfc16ee5005a5a.png",
-    "static/media/redux2.png": "/static/media/redux2.77141ab8cdb662741511.png",
-    "static/media/boot_img.png": "/static/media/boot_img.e1d2b2678912e41fd4af.png",
-    "static/media/js_img.png": "/static/media/js_img.9e13472f800cd90f53b4.png",
-    "static/media/jquery_img.gif": "/static/media/jquery_img.6e47663e953173d56fac.gif",
-    "static/media/css_img.png": "/static/media/css_img.463e319bad8e0edf1ef7.png",
-    "static/media/html_img.png": "/static/media/html_img.ff3cf75e3b7cbb4ea77c.png",
-    "index.html": "/index.html",
-    "main.ded445f5.css.map": "/static/css/main.ded445f5.css.map",
-    "main.68f7bbff.js.map": "/static/js/main.68f7bbff.js.map",
-    "787.1428244b.chunk.js.map": "/static/js/787.1428244b.chunk.js.map"
+    "main.css": "/Jinhee_PF/static/css/main.ded445f5.css",
+    "main.js": "/Jinhee_PF/static/js/main.f348ca6f.js",
+    "static/js/787.1428244b.chunk.js": "/Jinhee_PF/static/js/787.1428244b.chunk.js",
+    "static/media/chorong2.png": "/Jinhee_PF/static/media/chorong2.75a0a70c1c4c03a30c47.png",
+    "static/media/chorong.png": "/Jinhee_PF/static/media/chorong.f947abcfc16ee5005a5a.png",
+    "static/media/redux2.png": "/Jinhee_PF/static/media/redux2.77141ab8cdb662741511.png",
+    "static/media/boot_img.png": "/Jinhee_PF/static/media/boot_img.e1d2b2678912e41fd4af.png",
+    "static/media/js_img.png": "/Jinhee_PF/static/media/js_img.9e13472f800cd90f53b4.png",
+    "static/media/jquery_img.gif": "/Jinhee_PF/static/media/jquery_img.6e47663e953173d56fac.gif",
+    "static/media/css_img.png": "/Jinhee_PF/static/media/css_img.463e319bad8e0edf1ef7.png",
+    "static/media/html_img.png": "/Jinhee_PF/static/media/html_img.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/Jinhee_PF/index.html",
+    "main.ded445f5.css.map": "/Jinhee_PF/static/css/main.ded445f5.css.map",
+    "main.f348ca6f.js.map": "/Jinhee_PF/static/js/main.f348ca6f.js.map",
+    "787.1428244b.chunk.js.map": "/Jinhee_PF/static/js/787.1428244b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ded445f5.css",
-    "static/js/main.68f7bbff.js"
+    "static/js/main.f348ca6f.js"
   ]
 }
