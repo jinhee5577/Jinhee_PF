@@ -5,3 +5,4 @@ PC와 모바일에서 보기 적합하도록 반응형 웹사이트로 제작하
 제작하기 위해 CSS와 Javascript로 직접 개발하였습니다. 
 
 ## 메인포토폴리오 링크입니다. https://jinhee5577.github.io/Jinhee_PF/
+### 메인포토폴리오의 자세한 코드내용은 여기로 보시면 됩니다. https://github.com/jinhee5577/Main_Portfolio/tree/master/src
