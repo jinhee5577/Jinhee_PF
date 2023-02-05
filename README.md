@@ -3,6 +3,8 @@ React와 javascript로 개발된 저를 소개하는 오진희의 main_portfolio
 PC와 모바일에서 보기 적합하도록 반응형 웹사이트로 제작하였습니다.
 저를 소개하는 포토폴리오 인만큼 좀더 근사하고, 다양한 animation과 인터렉티브한 웹페이지로 
 제작하기 위해 CSS와 Javascript로 직접 개발하였습니다.
+
+
 총 4개의 section창으로 나누어 header에 있는 4개의 버튼클릭과, 스크롤 이동시 각section의 offsettop위치에 
 도달하면 해당section에 class :active가 붙어 다양한 animation 효과가 실행됩니다.  
 추가로 play버튼을 누르면 음악재생과 함께 랜덤한 아름다운 별빛이 함께 쏟아지도록 개발하였습니다.
