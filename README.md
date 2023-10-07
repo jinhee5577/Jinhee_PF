@@ -4,6 +4,19 @@ PC와 모바일에서 보기 적합하도록 반응형 웹사이트로 제작하
 저를 소개하는 포토폴리오 인만큼 좀더 근사하고, 다양한 animation과 인터렉티브한 웹페이지로 
 제작하기 위해 CSS와 Javascript로 직접 개발하였습니다.
 
+<p align="center">
+  <img width="950" alt="pf1" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/40763f2f-af58-43c6-a540-acf923dbad2f">
+</p>
+<p align="center">
+  <img width="950" alt="pf2" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/6f8c6d0c-0e46-4637-b120-dc4cf155548f">
+</p>
+<p align="center">
+  <img width="950" alt="pf3" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/0663f446-9ba9-4aab-9577-0a5d68080719">
+</p>
+<p align="center">
+  <img width="950" alt="pf4" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/34baf434-352a-43f1-bc1d-b493b8c1f4b0">
+</p>
+
 
 총 4개의 section창으로 나누어 header에 있는 4개의 버튼클릭과, 스크롤 이동시 각section의 offsettop위치에 
 도달하면 해당section에 class :active가 붙어 다양한 animation 효과가 실행됩니다.  
