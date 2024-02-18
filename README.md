@@ -8,7 +8,7 @@ PC와 모바일에서 보기 적합하도록 반응형 웹사이트로 제작하
   <img width="950" alt="pf1" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/40763f2f-af58-43c6-a540-acf923dbad2f">
 </p>
 <p align="center">
-  <img width="950" alt="pf2" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/6f8c6d0c-0e46-4637-b120-dc4cf155548f">
+  <img width="950" alt="jpmain2" src="https://github.com/jinhee5577/Movive_app/assets/82584287/0d5692ae-c956-44e2-9d7c-a71eddbfa787">
 </p>
 <p align="center">
   <img width="950" alt="pf3" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/0663f446-9ba9-4aab-9577-0a5d68080719">
