@@ -5,13 +5,13 @@ PC와 모바일에서 보기 적합하도록 반응형 웹사이트로 제작하
 제작하기 위해 CSS와 Javascript로 직접 개발하였습니다.
 
 <p align="center">
-  <img width="950" alt="pf1" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/40763f2f-af58-43c6-a540-acf923dbad2f">
+  <img width="950" alt="pf1" src="https://github.com/jinhee5577/JSP_Servlet_STUDY/assets/82584287/13c61505-a718-4ec5-bbdc-8c1b11b0ece1">
 </p>
 <p align="center">
-  <img width="950" alt="jpmain2" src="https://github.com/jinhee5577/Movive_app/assets/82584287/0d5692ae-c956-44e2-9d7c-a71eddbfa787">
+  <img width="950" alt="jpmain2" src="https://github.com/jinhee5577/JSP_Servlet_STUDY/assets/82584287/b4512646-2c71-4eaa-b1b3-0b1ba179c321">
 </p>
 <p align="center">
-  <img width="950" alt="pf3" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/0663f446-9ba9-4aab-9577-0a5d68080719">
+  <img width="950" alt="pf3" src="https://github.com/jinhee5577/JSP_Servlet_STUDY/assets/82584287/cf076e6c-841b-4c8d-9706-866558d8a730">
 </p>
 <p align="center">
   <img width="950" alt="pf4" src="https://github.com/jinhee5577/Jinhee_PF/assets/82584287/34baf434-352a-43f1-bc1d-b493b8c1f4b0">
